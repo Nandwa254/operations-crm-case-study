@@ -4,30 +4,32 @@ I built this CRM and workflow platform to make operational work more visible, st
 
 ## The problem
 
-I was dealing with operational work where customer records, follow-ups, assignments, reporting and process controls could become fragmented across disconnected manual workflows.
+I was working with operational processes where customer records, follow-ups, assignments, reporting and controls could become fragmented across manual workflows.
 
-I wanted an operating layer that connected those pieces and gave teams and management a clearer view of what was happening.
+I wanted a single operating layer that connected those pieces and gave the team a clearer view of what was happening.
 
 ## What I built around
 
-- Customer and record management
-- Workflow and follow-up tracking
-- Team visibility and coordination
-- Monitoring and reporting
-- Operational process discipline
-- Structured handling of exceptions and handoffs
+- customer and record management;
+- workflow and follow-up tracking;
+- team visibility and coordination;
+- monitoring and reporting;
+- operational controls;
+- structured handling of exceptions and handoffs.
 
 ## My role
 
-I led the product thinking, workflow structure, interface direction and implementation. I translated day-to-day operational requirements into a practical digital platform.
+I led the product thinking, workflow design, interface direction and implementation.
 
-## Design principles
+I translated day-to-day operational requirements into a practical digital platform and worked through the details needed to make it usable in the real workflow.
+
+## A few design principles
 
 1. Keep frontline workflows simple enough to use consistently.
 2. Make ownership and handoffs visible.
-3. Build reporting around decisions, not decoration.
-4. Put controls and exception handling inside the workflow where possible.
-5. Reduce unnecessary manual work without hiding important operational context.
+3. Build reporting around decisions rather than decoration.
+4. Put controls and exception handling into the workflow where possible.
+5. Reduce manual work without hiding important operational context.
 
 ## Technology
 
@@ -38,14 +40,10 @@ I led the product thinking, workflow structure, interface direction and implemen
 - Google Sheets
 - PHP
 
-## What I am making public
+## About the public version
 
-I am not publishing the production implementation because it is tied to a live business environment.
+The production system is tied to a live business environment, so I have not published its production implementation here.
 
-Instead, I am using this repository to show how I think about product design, workflow structure and systems execution while keeping the underlying production system private.
+The repository contains the parts of the project that I can share publicly, along with the thinking behind the workflow and system design.
 
-## Where this fits
-
-This project is part of my broader work across operations, customer portals, financial services, workflow automation and venture building.
-
-[View my personal portfolio](https://Nandwa254.github.io/)
+[View my portfolio](https://Nandwa254.github.io/)
