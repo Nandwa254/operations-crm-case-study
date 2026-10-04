@@ -1,14 +1,14 @@
 # Operations CRM & Workflow Platform
 
-A case study of a custom CRM and workflow platform designed to make operational work more visible, structured and accountable.
+I built this CRM and workflow platform to make operational work more visible, structured and accountable.
 
 ## The problem
 
-Operational work can become fragmented when customer records, follow-ups, assignments, reporting and process controls live across disconnected manual workflows.
+I was dealing with operational work where customer records, follow-ups, assignments, reporting and process controls could become fragmented across disconnected manual workflows.
 
-This case study documents the approach I used to turn those requirements into a practical operating system.
+I wanted an operating layer that connected those pieces and gave teams and management a clearer view of what was happening.
 
-## What the system addresses
+## What I built around
 
 - Customer and record management
 - Workflow and follow-up tracking
@@ -19,7 +19,7 @@ This case study documents the approach I used to turn those requirements into a 
 
 ## My role
 
-I led the product thinking, workflow structure, interface direction and implementation, translating day-to-day operational requirements into a usable digital platform.
+I led the product thinking, workflow structure, interface direction and implementation. I translated day-to-day operational requirements into a practical digital platform.
 
 ## Design principles
 
@@ -38,12 +38,14 @@ I led the product thinking, workflow structure, interface direction and implemen
 - Google Sheets
 - PHP
 
-## Public / private boundary
+## What I am making public
 
-The production implementation is not published because it is tied to a live business environment. This repository is a sanitized case study intended to demonstrate product thinking, workflow design and systems execution.
+I am not publishing the production implementation because it is tied to a live business environment.
 
-## Portfolio context
+Instead, I am using this repository to show how I think about product design, workflow structure and systems execution while keeping the underlying production system private.
 
-This project is part of a broader body of work spanning operations, customer portals, financial services, workflow automation and venture building.
+## Where this fits
+
+This project is part of my broader work across operations, customer portals, financial services, workflow automation and venture building.
 
 [View my personal portfolio](https://Nandwa254.github.io/)
