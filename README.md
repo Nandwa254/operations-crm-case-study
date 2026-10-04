@@ -23,7 +23,7 @@ I led the product thinking, workflow design, interface direction and implementat
 
 I translated day-to-day operational requirements into a practical digital platform and worked through the details needed to make it usable in the real workflow.
 
-## A few design principles
+## Design principles
 
 1. Keep frontline workflows simple enough to use consistently.
 2. Make ownership and handoffs visible.
